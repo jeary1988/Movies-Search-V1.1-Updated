@@ -1,0 +1,89 @@
+
+
+.statusbar-overlay {
+    background: #000000;
+}
+
+.navbar-inner, .toolbar-inner{
+color:#ccc;
+}
+
+.navbar, .subnavbar, .toolbar {
+    background: rgba(0, 0, 0, .85) !important;
+    
+}
+
+.content-block{
+    
+    padding:0 !important;
+}
+
+.button{
+    background: transparent !important;
+    color:#ccc !important;
+    height:40px;
+    padding:5px;
+    border-top: 1px solid aliceblue !important;
+    font-size: 16px;
+    border: 1px solid aliceblue;
+}
+
+.item-media img{
+    width: 80px !important;
+    height: 120px !important;
+
+}
+
+
+#movieDetails ul{
+ list-style: none !important;    
+      padding:0 !important; 
+      background: transparent !important;
+}
+
+
+#movieName{
+    padding-left:21%;
+}
+
+.card img{
+   width: 100% !important;
+   
+}
+
+.layout-dark .list-block ul{
+    background: transparent !important;
+  
+}
+
+.list-block ul {
+      background: transparent !important;
+      color: #ccc!important;
+}
+
+.fas{
+    font-size: 21px;
+    color: #ccc!important;
+    padding-left: 10px;
+}
+
+.fa, .far, .fas {
+
+    font-size: 20px !important;
+      color: #ccc!important;
+}
+
+
+.fab {
+    color: #ccc!important;
+    font-size: 30px !important;
+}
+
+.card{
+    background: transparent !important;
+    color: #ccc !important;
+}
+
+a{
+    color: #ccc !important;
+}
